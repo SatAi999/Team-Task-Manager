@@ -1,6 +1,6 @@
 # Team Task Manager
 
-A production-quality full-stack collaborative task management platform built with React, Node.js, Express, PostgreSQL, and Prisma ORM.
+Team Task Manager is a full-stack web application that lets teams organize their work across projects and tasks — Admins create projects, assign members, and manage everything end to end, while Members can track and update their assigned work. It has a live analytics dashboard showing completion rates, overdue tasks, and status breakdowns in real time. Built with React and Node.js, backed by PostgreSQL, with JWT authentication and role-based access enforced at the API level — not just the UI. Deployed and fully functional on Railway and Vercel.
 
 ---
 
